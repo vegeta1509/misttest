@@ -1,5 +1,6 @@
 # misttest
-shivam kansal
+Shivam kansal
 ## Contributors
 Harshit Gupta
-shefali 
+Shefali 
+dhruv10 
