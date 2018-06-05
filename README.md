@@ -1,6 +1,8 @@
 # misttest
 
 ## Contributors
+
+Nitin
 Harshit Gupta
 Shefali 
 dhruv10 
